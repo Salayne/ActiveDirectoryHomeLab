@@ -1,7 +1,12 @@
 **Windows Server & Active Directory:**
 - Set up a virtual machine with Windows Server 2022.
 - Install and configure the Active Directory Domain Services (AD DS) role.
-- Create several virtual user accounts and organizational units (OUs) to demonstrate your understanding of user management, a key responsibility of the role.
+  ![image alt](https://github.com/Salayne/ActiveDirectoryHomeLab/blob/main/OUs/instlWinServ-11.png)
+  ![image alt](https://github.com/Salayne/ActiveDirectoryHomeLab/blob/main/OUs/windowsServerSearch.png)
+ ![image alt](https://github.com/Salayne/ActiveDirectoryHomeLab/blob/main/OUs/ADUsersMenu.png)
+
+  
+- Create several virtual user accounts and organizational units (OUs)
 
 
 **End-User PC & Network Integration:**
